@@ -16,13 +16,6 @@ This dashboard offers a quick and easy way to understand:
 * **Organizational Structure:** Visualize the distribution of employees across different departments.
 * **Experience Levels:** Understand the tenure of our workforce.
 
-## 🚀 Get Started!
-
-1.  **Access the Dashboard:** [**REPLACE THIS WITH THE ACTUAL LINK TO YOUR DASHBOARD**]
-2.  **Explore:** Click through the different sections and charts. The visuals are designed to be intuitive and easy to understand.
-3.  **Discover Insights:** Look for trends, patterns, and areas that stand out. Hover over elements for more details.
-4.  **Take Action:** Use these insights to inform your HR strategies and initiatives!
-
 ## 💡 Why This Matters
 
 This dashboard helps us to:
@@ -33,8 +26,3 @@ This dashboard helps us to:
 * **Improve Employee Well-being:** Understand workload and satisfaction levels to create a better work environment.
 * **Build a Stronger Organization:** By understanding our people data, we can create a more engaged, productive, and successful workplace.
 
-## 🤝 Let's Connect!
-
-[Optional: Add links to contact HR or relevant teams if users have questions or feedback.]
-
-**Together, we can use these insights to build an even better future for our organization and our people!**
