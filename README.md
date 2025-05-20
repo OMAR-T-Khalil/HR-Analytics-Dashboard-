@@ -26,4 +26,5 @@ This dashboard helps us to:
 * **Improve Employee Well-being:** Understand workload and satisfaction levels to create a better work environment.
 * **Build a Stronger Organization:** By understanding our people data, we can create a more engaged, productive, and successful workplace.
 
-![HR Dashboard](dashboard image/hr dashboard.png)
+![HR Dashboard](dashboard%20images/HR%20Dashboard.PNG)
+![HR Dashboard 2](dashboard%20images/hr%20dashboard%202.PNG)
